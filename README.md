@@ -92,7 +92,7 @@ GOOS=darwin GOARCH=amd64 go build -o calculadora_criptografica_mac
 ## Estructura del proyecto
 
 ```
-calculadora_criptografica/
+CalculadoraGo/
 ├── main.go                  # Punto de entrada y manejo de menús
 ├── go.mod                   # Definición del módulo
 ├── go.sum                   # Checksums de dependencias
